@@ -1,2 +1,1 @@
-# ThunderGP-repo
-practice of thunderGP
+# Temp
